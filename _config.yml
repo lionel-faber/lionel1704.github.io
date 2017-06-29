@@ -180,6 +180,7 @@ pages_list:
   Music: 'music'
   Timeline: 'timeline'
   Contact: 'contact'
+  Resume: 'resume'
 
 # Exclusion list from the generated _site
 
